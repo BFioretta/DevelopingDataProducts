@@ -6,4 +6,5 @@ This is the "Choose the best car for you" application.  It was created for the D
 
 * When all selections have been made, click on the Search button to refresh the listing on the right with the cars which fit the criteria you have chosen.
 
-Source code for ui.R and server.R files are available on GitHub.
+Source code for ui.R and server.R files are available on GitHub:
+https://github.com/BFioretta/DevelopingDataProducts
