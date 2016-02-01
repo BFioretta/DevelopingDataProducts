@@ -3,6 +3,6 @@ This repository has the ui.R and server.R files for the first part of the Develo
 
 The application developed for the first part of the assignment is availlable at: https://bfioretta.shinyapps.io/developingdataproducts/
 
-The presentation is available at: &&&&&&&&&&&&
+The presentation is available at: http://rpubs.com/bfioretta/dataproducts
 
 Files for the presentation are available on the GitHub: https://github.com/BFioretta/DevelopingDataProducts
