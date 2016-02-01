@@ -1,4 +1,4 @@
-This is the "Choose the best car for you" application.  It was created for the Developing Data Products Course, from Coursera. This application allows the user to find the best car for them based on their selections for Transmission # type, Cylinder, MPG and HP preferences.  The application utilizes the mtcars dataset.  
+This is the "Choose the best car for you" application.  It was created for the Developing Data Products Course, from Coursera. This application allows the user to find the best car for them based on their selections for Transmission type, Cylinder, MPG and HP preferences.  The application utilizes the mtcars dataset.  
 
 * First, use the radio buttons to select whether you prefer a Manual or Automatic transmission.
 * Then, use the check boxes to select one or more cyclinder options.

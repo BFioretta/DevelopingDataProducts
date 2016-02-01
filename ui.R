@@ -2,7 +2,7 @@
 # ui.R file for Shiny App
 # Beth Fioretta - 1/31/2016
 
-# This app is intended to help a user choose a car based on their desired Cylinders, Transmission, 
+# This application is intended to help a user choose a car based on their desired Cylinders, Transmission, 
 # MPG and HP, using the mtcars dataset
 
 library(markdown)
